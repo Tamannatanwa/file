@@ -1,0 +1,7 @@
+f=open("myfile.py","rb")
+d=f.read()
+print("d=",d)
+print("d[5]=",d[5])
+print("d[0]=",d[0])
+print(bin(d[2]))
+f.close()

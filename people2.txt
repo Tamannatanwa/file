@@ -1,0 +1,5 @@
+["tamanna"-"delhi"]
+["aniket"-"shimla"]
+["priya"-"delhi"]
+["amrita"-"shimla]
+["raj"-"timarni"]
